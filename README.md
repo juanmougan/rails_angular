@@ -11,3 +11,9 @@
 ## Run the app
 
 `bundle exec rails s`
+
+## JavaScript
+
+### Add Webpacker
+
+`bin/rails webpacker:install`
